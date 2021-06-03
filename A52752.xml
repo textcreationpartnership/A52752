@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certain considerations tendered in all humility to an honorable member of the councell of state, Aug. 1. 1649. Concerning I. The discontents of the people. II. Opprobrious speeches against government. III. Pasquils and pamphlets. IV. Invectives out of the pulpit. V. Eaves-droppers, whisperers, or informers. VVherein is represented the opinion and practice of many the most eminent statesmen, in relation to these particulars. / By Marchamont Nedham, Gent.</title>
+            <author>Nedham, Marchamont, 1620-1678.</author>
+         </titleStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52752</idno><idno type="EEBO-CITATION">99830401</idno>
+  <idno type="VID">34852</idno>
+  <idno type="EEBO-PROQUEST">2240893016</idno>
+  
+            <idno type="STC">Wing N381</idno>
+            <idno type="STC">ESTC R218844</idno>
+            <idno type="PROQUEST">99830401</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99830401e"/>
+            <note>(EEBO-TCP ; phase 2, no. A52752)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34852)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2073:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certain considerations tendered in all humility to an honorable member of the councell of state, Aug. 1. 1649. Concerning I. The discontents of the people. II. Opprobrious speeches against government. III. Pasquils and pamphlets. IV. Invectives out of the pulpit. V. Eaves-droppers, whisperers, or informers. VVherein is represented the opinion and practice of many the most eminent statesmen, in relation to these particulars. / By Marchamont Nedham, Gent.</title>
+                  <author>Nedham, Marchamont, 1620-1678.</author>
+               </titleStmt>
+               <extent>[4], 4, 7-14 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the yeare, 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The words "I. The discontents .. informers." are bracketted together in title.</note>
+                  <note>Text is continuous despite pagination.</note>
+                  <note>Marginal notes.</note>
+                  <note>Reproduction of the original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34852:1"/>
+            <p>CERTAIN CONSIDERATIONS Tendered in all humility, to an Honorable Member of the <hi>Councell of State, Aug.</hi> 1. 1649.
+<list>
+                  <head>Concerning</head>
+                  <item>I. The Discontents of the People.</item>
+                  <item>II. Opprobrious Speeches against Government.</item>
+                  <item>III. Pasquils and Pamphlets.</item>
+                  <item>IV. Invectives out of the Pulpit.</item>
+                  <item>V. Eaves-droppers, Whisperers, or Informers.</item>
+               </list>
+            </p>
+            <p>Wherein is represented the Opinion and Practice of many the most eminent <hi>Statesmen,</hi> in relation to these Particulars.</p>
+            <p>By <hi>Marchamont Nedham,</hi> Gent.</p>
+            <q>
+               <bibl>HORAT.</bibl>
+               <l>Vim temperatam Dii quo{que} provehunt</l>
+               <l>In majus.—</l>
+            </q>
+            <p>
+               <hi>LONDON.</hi> Printed in the Yeare, 1649.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:34852:2"/>
+            <pb facs="tcp:34852:2"/>
+            <head>The PREFACE.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>BEing very sensible of my sad suffering (after six Weekes imprisonment) upon suspicion of being the Author of <hi>Mercuri<g ref="char:EOLhyphen"/>us Pragmaticus;</hi> and finding that many o<g ref="char:EOLhyphen"/>thers have been, and may be, imprisoned upon the same Accompt, or the like, for scandalous Pamphlets, I thought meet (having little else to do in Prison) to descend somewhat in<g ref="char:EOLhyphen"/>to the nature of my <hi>supposed Crime;</hi> which I judged might be best understood out of the monuments of History and Policy.</p>
+            <p>And my thoughts being thus farre ingaged, other Particulars (not differing <hi>in Specie</hi> from the former) came unawares into my view, <hi>viz.</hi> the present <hi>discontents of the People,</hi> with those <hi>bitter Arrowes</hi> shot out of mens Mouthes, and Pulpits: whereto I
+<pb facs="tcp:34852:3"/> have added a briefe <hi>Lant-skip</hi> touching <hi>VVhisperers, Informers, &amp;c,</hi> as being my selfe brought under the Lash, and persecuted by that unworthy Generation.</p>
+            <p>Concerning all these I have taken the bold<g ref="char:EOLhyphen"/>nesse to Treat, in an indifferent manner, in re<g ref="char:EOLhyphen"/>lation to your selfe, and others, who sit at the Helm: And though it were extream arro<g ref="char:EOLhyphen"/>gance in me, to instruct your wisdome (who am my selfe of but few yeares, and small experi<g ref="char:EOLhyphen"/>ence;) yet since what I shall deliver, is deri<g ref="char:EOLhyphen"/>ved from the best Opinions and Examples, I am the more confident in my Designe: not as if you knew not these things already; but only out of a desire to be your Remembrancer, in what may be partly convenient to procure the Weale and Peace of the Nation.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <div n="1" type="part">
+               <pb n="1" facs="tcp:34852:3"/>
+               <head>I. <hi>Concerning the Discontents, and turbu<g ref="char:EOLhyphen"/>lent Humours of the</hi> PEOPLE.</head>
+               <p>
+                  <seg rend="decorInit">M</seg>Ost alterations of Government have been attended with strong oppositions, discontents, and bitterness of the people; especially when they enjoy not those Benefits promised, or expected, by a Change of their <hi>Governors.</hi> It is not in their Power to consider the Circumstances of Reason; nor to weigh the grounds of a necessity, which may constraine <hi>Governors</hi> to lay burthens on them for the present, to purchase ease in the <hi>future;</hi> but for the most part being led by <hi>sense,</hi> they cry out when the <hi>shoe wrings,</hi> and will not have patience to attend the tedious remedy and Cure of grand Inconveniences.</p>
+               <p>To allay these, and gaine Them, it hath been the way of <hi>new Princes</hi> and <hi>States,</hi> not to be too rigid in their exactions of obedi<g ref="char:EOLhyphen"/>ence, &amp;c. but (as <note n="a" place="margin">Vlpianus <hi>Lib. 4. de manu<g ref="char:EOLhyphen"/>miss.</hi>
+                  </note>
+                  <hi>Ʋlpian</hi> saith) <hi>conniventibus occulis agere,</hi> to wink at small faults, and let them have their humours for a time. So did that King of the <hi>Macedonians</hi> spoken of by <hi>Livie. Non quià probaret,</hi>
+                  <note place="margin">Liv. <hi>lib.</hi> 42.</note>
+                  <hi>sed quià in novâ possessione regni patienda omnia essent, passum.</hi> Not because he approved what he tolerated, but bcause there ought to be a generall Toleration in a new government. Thus <hi>Tiberius,</hi> though he were a most strict exactor of the disciplin of the Lawes, yet durst not be severe in his first essaies of government, knowing that too sharp remedies would have multiplied Distempers. And this is noted by <hi>Tacitus</hi> concerning <hi>Faelix, eum nimiis remediis Delicta ac<g ref="char:EOLhyphen"/>cendisse,</hi> that the minds of Delinquents were rather inflamed than restrained by his harsh dealings: And by the same means <hi>Livy</hi> saith<note place="margin">Liv. <hi>lib.</hi> 6.</note> of <hi>Manlius, Remedio seditionem irritâsse,</hi> that he exasperated the People to Sedition. But on the contrary, most memorable is that Place of <hi>Livy,</hi> concerning the Carriage of the People of <hi>Rome,</hi> upon<note place="margin">Liv. <hi>lib.</hi> 2.</note> alteration of the Kingly Government; That <hi>though they groaned un<g ref="char:EOLhyphen"/>der many Pressures and Calamities, yet being cherish't by the Indulgence, prudence, and easie government of the Senat, They grew sensible of Li<g ref="char:EOLhyphen"/>berty, and so Zealous and unanimous in the defence of it,</hi> ut regium no<g ref="char:EOLhyphen"/>men non summi magis quam infimi horrerent, <hi>that the very name of of King was odious among Them, from the highest to the lowest.</hi>
+               </p>
+               <p>It was excellent Counsell which <hi>Livia</hi> gave to <hi>Augustus, Novum
+<pb n="2" facs="tcp:34852:4"/> principem imperandi auspicium facere debere á clementiâ,</hi> That a new Prince ought to commence his Raign with Clemency; and the rea<g ref="char:EOLhyphen"/>son why <hi>Mithridates</hi> so soon lost himselfe is noted by <hi>Tacitus, Eum atrociorem fuisse quàm novo regno conduceret,</hi> because he behaved him<g ref="char:EOLhyphen"/>selfe with more violence, than was meet for one that had but newly become master of a Kingdome. Nor doe I find any one of the con<g ref="char:EOLhyphen"/>trary opinion, but onely that <note n="*" place="margin">Machiavel.</note>
+                  <hi>Florentin devill,</hi> who broached so many wilde <hi>Maxims</hi> to countenance the Gruelties, and Inhumani<g ref="char:EOLhyphen"/>ties of his <hi>Borgia.</hi> The furious beginning of <hi>Rehoboams</hi> Govern<g ref="char:EOLhyphen"/>ment occasioned that revolt of the <hi>ten Tribes,</hi> which made the great <hi>Rent</hi> betwixt <hi>Israel</hi> and <hi>Judah;</hi> and this through the Counsell of some <hi>hot Heads</hi> about him, contrary to the judgement of his Father <hi>Solomons</hi> old Counsellours, who advised, saying, <hi>If thou wilt be a ser<g ref="char:EOLhyphen"/>vant</hi>
+                  <note place="margin">1 Kings <hi>cap.</hi> 12.</note>
+                  <hi>unto this people this day, and wilt serve them, and answer them, and speak good words to them, then they will be thy servants for ever.</hi> There are (saith <hi>Cicero</hi>)) certaine extravagances to be tolerated in a new Government, which he calls <hi>popularia munera,</hi> to oblige the People. For (as <hi>Aristole</hi> saith in his Politiques) <hi>Hinc fit, ut Plebs</hi>
+                  <note place="margin">
+                     <hi>Lib. 6. pol. c.</hi> 4.</note>
+                  <hi>presentem Reipublicae statum amet, siquidem plerisque lubet dissolutè vi<g ref="char:EOLhyphen"/>vere quàm modestè.</hi> The common people are naturally of a loose disposition, so that if they may enjoy a kind of dissolute liberty, they like the present state of Government whatsoever it be.</p>
+               <p>And for this we have the practice of the wise <hi>Augustus,</hi> as soon as he attained the <hi>Empire;</hi> who to indear himselfe to the People, gratified them with large Immunities, Ease, Plenty, Pleasure, Sports, Pageants, and open Theatres; at which (<hi>Tacitus</hi> tells us) he was<note place="margin">Tacit. <hi>Annal.</hi> 1.</note> wont to shew himselfe among them in publique. And when upon the advice of his more rigid <hi>Civilians,</hi> he was minded to alter this li<g ref="char:EOLhyphen"/>centious Custom, the noble <hi>Mecaenas</hi> was of another minde, and stopt his Resolution, saying, <hi>Expedit tibi, Caesar, plebem sic occupatam esse,</hi> It much advantages thee, O <hi>Cesar,</hi> so to busie the mindes of the People. Let them be charmed with such Arts of indulgence, and have wherewith to satisfie their appetites, then they no more remem<g ref="char:EOLhyphen"/>ber their former state, but every one sits down content with his pre<g ref="char:EOLhyphen"/>sent condition, and according to that of the <hi>Satyrist,</hi>
+                  <note place="margin">Juvenal.</note>
+                  <q>
+                     <l>—<hi>Duas tantùm res anxius optat,</hi>
+                     </l>
+                     <l>
+                        <hi>Panem, &amp; Circenses.</hi>—</l>
+                  </q>
+               </p>
+               <p>Fair words, gentle carriage, and a reputation of Clemency are of more force (saith one) for the taming of turbulent spirits in a new Common-wealth, <note n="*" place="margin">Plus valent, &amp;c. quàmcareer, bonorū confisca<g ref="char:EOLhyphen"/>tio, proscriptio, virgae, denique &amp; Secures.</note> than Prisons, Forfeiture of Goods, Banish<g ref="char:EOLhyphen"/>ment,
+<pb n="3" facs="tcp:34852:4"/> Bodily punishment, or Death it selfe. When the Mother of <hi>Alexander Severus</hi> stirred up his Wife to tax him of too much lenity, and tell him, <hi>ita molliorem tibi potestatem, &amp; contemptibiliorem fecisti,</hi> that by it he rendred his Authority the lesse manly, and the more contemptible, he answered, <hi>Sed securiorem at{que} diuturniorem,</hi> that it became thereby the more secure and lasting. <hi>Camerarius</hi> in the life of <hi>Phil. Melanchton,</hi> tels a story of <hi>Everhard</hi> Duke of <hi>Witten<g ref="char:EOLhyphen"/>berg,</hi> how he boasted in a solemn Assembly of all the Princes of the Empire; <hi>That he durst, even in a Wildernesse, trust himself asleep in the bosome of any one of his Subjects.</hi> Certainly love is the surest Guard of States and Princes; which is no way to be obtained but by gentleness &amp; mercy, whereas severity sowes the first seeds of <hi>Sedition &amp; Enmity.</hi>
+               </p>
+               <p>
+                  <hi>Multis terribilis caveto multos,</hi> was the Advice of <hi>Ausonius;</hi> and<note place="margin">
+                     <hi>Ncc invisa Im<g ref="char:EOLhyphen"/>peria retinentur diu.</hi> Seneca.</note> it was upon this Ground <hi>Caesar</hi> broached that in <hi>Suetonius, Praestat semel mori quàm cavere semper,</hi> It is better to die once than beware ever. It was a saying of the Emperor <hi>Rudolphus,</hi> 1. recorded by <hi>Boccalini: Severum &amp; immitem me aliquando fuisse paenituit; lenem &amp; placabilem nunquam.</hi> It hath often repented me of my Severity, but never of my lenity: And that the latter is most convenient in turbulent Times, the same Author gives the Reason; <hi>Civiles enim</hi>
+                  <note place="margin">Odi<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Deus ni<g ref="char:EOLhyphen"/>mis vehementes impetus; odere Cives.</note>
+                  <hi>dissensiones mansuetudine &amp; moderatione multo facil<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ùs, quàm severi<g ref="char:EOLhyphen"/>tate &amp; armis sedari possunt;</hi> For, civill dissentions are far more easily quieted with meeknesse and moderation, than by Severity and force of Arms. <hi>Anthony Perez</hi> fol. 155. compares a new State full of <hi>Malecontents</hi> to a Tower founded upon <hi>Quick-Silver:</hi> From whence he inferrs the necessity of a fair and gentle Carriage to win such persons (if possible) or else (as <hi>Guicciardin</hi>
+                  <note n="*" place="margin">
+                     <hi>Hypomnem.</hi> polit. nu. 56.</note> observes) they soon grow desperate. Most excellent to this purpose is the Advice of <hi>Ta<g ref="char:EOLhyphen"/>citus in Agricolà; omnia scire, non omnia persequi, nec paenâ semper, sed saepiùs paenitentiâ contentum esse.</hi> It behoves <hi>States-men</hi> to know all things, but not to prosecute all things, and to sit downe satisfied more often with the Repentance, than the punishment of an offen<g ref="char:EOLhyphen"/>der. And in another place of the same Author, <hi>Non quicquid nocens reus pati meretur, novo sub principe statuendum est: Adeò nonnunquàm delicta nimis asperis remediis at{que} suppliciis, magis magis{que} augentur.</hi> It is not for new Princes to inflict punishments upon Offenders to the utmost of what they merit: For, so sometimes by such harsh dealings, they rather increase their number than suppresse or amend Them. Wherefore <hi>Iovius</hi> saith, the same way must be taken to order an inraged People, as an unruly Horse: <hi>Quoniam sicut peritus eques
+<pb n="4" facs="tcp:34852:5"/> non semper &amp; uno tenore fraenum stringit, aut calcaria subdit; sed saepe<g ref="char:EOLhyphen"/>numerò</hi>
+                  <note place="margin">Besoldus. <hi>in dissert. de are. Rerumpub.</hi>
+                  </note>
+                  <hi>laxat, &amp; veluti adulando, palpando{que} quoquoversùm ducit etiam ferocissimum equum at{que} inhabilem. Sic viri prudentes in novâ Repub<g ref="char:EOLhyphen"/>licâ plebem succussantem &amp; ferocientem moderatè regunt, fraeno injecto, sed laxo; ne, si violento tractu reducant, Seipsos imperio excutiant.</hi> For, as an expert Horse-man doth not alwayes rein, or spur, a metled Horse; but now and then gives him head, and at length, as it were by soothing, and stroking gently, can guide him which way he please, though wild, and skittish. So ought prudent States-men to order a mutinous &amp; seditious People in a <hi>new Republique,</hi> with meek<g ref="char:EOLhyphen"/>ness and moderation; bridling them with Laws, but somewhat loosly; lest by reining them too hard, they hoist themselves out of the <hi>Saddle.</hi>
+               </p>
+               <p>From whence it's to be inferr'd that in new Common-wealths, new Lawes ought to be as the Bridle and the whip, to restrain dis<g ref="char:EOLhyphen"/>affected persons, and hold them under the Lash: But they are not to be put in execution, save where absolute necessity requires; and then not in the extremity neither; especially in this Common-wealth of <hi>England,</hi> so full of men of generous spirits and education, in whom severe and rigid exactions and executions would now raise the grea<g ref="char:EOLhyphen"/>ter spirit of opposition, since they look upon their present Lords and governers, as those who of late were but their Fellow-Subjects. But above all things they ought to beware of declaring <hi>high Treason</hi> in too large a Latitude, which should be strech't to none but Crimes of the highest nature, since (as <hi>Tacitus</hi> speaks) <hi>Majestatis Crimen omni<g ref="char:EOLhyphen"/>um</hi>
+                  <note place="margin">
+                     <hi>Annal.</hi> 3.</note>
+                  <hi>accusationum Complementum esse debet,</hi> the Crime of Treason ought to be the utmost of all Accusations. And <hi>Curtius</hi> saith, <hi>Turpe</hi>
+                  <note place="margin">
+                     <hi>Lib.</hi> 21</note>
+                  <hi>esse, imò non videri è re principis, vel publici patris, Crimen majestatis ad minima &amp; ridicula quae{que} reduci,</hi> It is very impolitique, and beneath the Majesty of a Prince, or publique Father, to reduce the meanest and most triviall matters within the compasse of Treason.</p>
+               <p>But some may say, what course is then to be taken? I answer to this, there can be no better Counsel, than that of <hi>Alexander</hi> in <hi>Cur<g ref="char:EOLhyphen"/>tius,</hi>
+                  <note place="margin">
+                     <hi>Lib.</hi> 6.</note>
+                  <hi>In novo et precarie Imperio, adhuc jugum rigidâ cervice subeunte populo tempore opus est; dum mitioribus ingeniis imbuuntur, &amp; efferatos moll<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or consuetudo permulcet.</hi> In new and precarious Governments, which alway depend much upon the Love and Courtesie of the Peo<g ref="char:EOLhyphen"/>ple, the cure of mutinous and dis-affected Spirits must be a businesse of Time; and is not to be effected by Laws like Thunderbolts, but by the still small voice, the smooth oyle of gentle language, persua<g ref="char:EOLhyphen"/>sive Admonitions and Declarations, hopes of mild government,
+<pb n="7" facs="tcp:34852:5"/> pardon to offenders, Acts of Mercy, with all arts of case and Indul<g ref="char:EOLhyphen"/>gence;<note place="margin">
+                     <hi>Nemo est nomen da<g ref="char:EOLhyphen"/>turus, ne<g ref="char:EOLhyphen"/>mo arma capturus, nemo di<g ref="char:EOLhyphen"/>mi<gap reason="illegible: faint" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>turus in Repub<g ref="char:EOLhyphen"/>licà, pro super<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>is Dominis.</hi> Livius <hi>lib.</hi> 4.</note> which are so much the more excellent in the policie of a <hi>Christian</hi> Common-wealth, in that they savour of the Spirit of meek<g ref="char:EOLhyphen"/>nesse, and may be derived out of the Doctrines of <hi>Christianity.</hi> I shall conclude this first particular with the saying of an excellent <note n="*" place="margin">Cunra<g ref="char:EOLhyphen"/>dus Ritter<g ref="char:EOLhyphen"/>shusius <hi>in thes. de jure pub<g ref="char:EOLhyphen"/>lico. Oderunt dum metu<g ref="char:EOLhyphen"/>ant.</hi>
+                  </note>
+                  <hi>Civilian,</hi> out of <hi>Dion. Halicar. lib. 6. num. 34. Quicquid est formida<g ref="char:EOLhyphen"/>bile, id necessitate naturali maximè est omnibus exosum. At firmissi<g ref="char:EOLhyphen"/>mum est imperium, quod beneficiis, non suppliciis, subditos in Imperio continere solet: Illorum enim benevolentiam, horum timorem esse comi<g ref="char:EOLhyphen"/>tem.</hi> Whatsoever is terrible must of necessity be hatefull to all. But that Government is most sure and lasting, which retaines the Subject in obedience with good turns, rather than panishments; the former being accompanied ever with love and good will; the lat<g ref="char:EOLhyphen"/>ter with fear and hatred. And (as one saith) <hi>Nemo potest esse fidus ei quem timet.</hi> Feare is the very bane of <hi>Allegiance.</hi>
+               </p>
+            </div>
+            <div n="2" type="part">
+               <head>II. <hi>Of opprobrious Speeches against Government.</hi>
+               </head>
+               <p>GOverners (especially Founders of a new Government) have never been free from these <hi>bitter arrowes:</hi> And though it be a hard matter for persons in power to digest such things; yet we shall find the wisest have ever entertained them with neglect and scorne, as unworthy their revenge or notice. Therefore the <hi>Tragedian</hi> sets<note place="margin">Seneca <hi>in</hi> Herc.</note> down this for a Rule, <hi>Ars prima regni posse te invidiam pati,</hi> the chiefest Art of Government is to be able to indure malice and envy. And most of the <hi>Roman</hi> Emperors were so far from controlling the licentious railings and revilings of the people, that they seemed rather to approve them. It was the Custome of <hi>Caesar</hi> (saith <hi>Sue<g ref="char:EOLhyphen"/>tonius</hi>)<note place="margin">Suet. <hi>de Caesare.</hi>
+                  </note> when such persons were brought before him, <hi>Satis habuit pro concione denunciare, ne perseverarent,</hi> to dismisse them onely with an admonition, that they should do so no more. And it is observa<g ref="char:EOLhyphen"/>ble what <hi>Livie</hi> saith of them <hi>Olim non appellab antur seditiosi, sed tan<g ref="char:EOLhyphen"/>tùm</hi>
+                  <note place="margin">Liv. <hi>lib.</hi> 5.</note>
+                  <hi>novi Sermonis autores;</hi> That of old time among the <hi>Romans,</hi> such persons were not characterised with so <hi>black a coal</hi> as the title of <hi>seditious,</hi> but were called Authors of new Rumors, idle <hi>Newes<g ref="char:EOLhyphen"/>mongers, &amp;c,</hi>
+               </p>
+               <p>When it was told the Emperor <hi>Frederick</hi> 3. that divers had raised vile reports, and cast out opprobrious words against him about the <hi>Court,</hi> he, nothing at all moved, made answer, <hi>Principes &amp; alios prae<g ref="char:EOLhyphen"/>stantes</hi>
+                  <note place="margin">Jovius <hi>de vit. Imp.</hi>
+                  </note>
+                  <hi>viros, quasi Signum ad quos omnes virulentae linguae tela conjice<g ref="char:EOLhyphen"/>rent,
+<pb n="8" facs="tcp:34852:6"/> expositos esse; at turres praealtas fulmina feriunt, humilia praetere<g ref="char:EOLhyphen"/>unt tecta.</hi> It is the common lot of Princes and eminent persons to be ill spoken of, being set as a marke for every virulent tongue to shoot at. But above all others, the Governers in a <hi>free City</hi> or <hi>State,</hi> must bear with these things, and take heed of crossing the people in this licentious humor: And of this opinion was the Emperor <hi>Tibe<g ref="char:EOLhyphen"/>rius</hi> himself (<hi>as Suetonius</hi> reports of him) <hi>In republicâ, vel civitate liberâ, linguam mentes{que} liberas esse oportere,</hi> That in a <hi>Common-wealth</hi> or <hi>free City,</hi> both the opinions and tongues of men ought to be free. For (saith one) <hi>Quid pl<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bireliquum erit, adempto per inquisitiones lo<g ref="char:EOLhyphen"/>quendi</hi>
+                  <note place="margin">Suet. <hi>de Tib.</hi>
+                  </note>
+                  <hi>audiendi{que} commercio.</hi> If you set Spies upon the people, and deprive them of the liberty of hearing, speaking, easing and uttering their minds to each other, then they reckon they have lost all and so grow desperate. Wherefore <hi>Suetonius</hi> saith of the same <hi>Ti<g ref="char:EOLhyphen"/>berius; opprobria inse &amp; suos jacta, nolle ad cognitionem vocari;</hi> That though he were otherwise a most severe and rigid Prince, yet he would never suffer any to be questioned for reproaches against him and his.</p>
+               <p>This <hi>Rule</hi> holds especially in every alteration of Government; which though somtimes it may be for the better, yet the people be<g ref="char:EOLhyphen"/>ing subjected to the inconveniences of a <hi>Change,</hi> which of necessity brings on many grievances and pressures for the present, look upon themselves as miserable, <hi>quasi libertate</hi>
+                  <note n="*" place="margin">Tacit. <hi>Annal.</hi> 1.</note>
+                  <hi>amissâ, &amp; cruda Servitute,</hi> and reckon that they have lost their liberty. In this case they must be tenderly handled: The Governers must in most things seem to say as they say; And such language as is not fit for them to heare, they must seem not to heare. For, as <hi>Justin</hi> saith, <hi>Plebs ut est naturâ le<g ref="char:EOLhyphen"/>quax,</hi>
+                  <note place="margin">Justin. <hi>lib.</hi> 9.</note>
+                  <hi>it à praeclarè secum agi autumat, si possit linguâ ad criminandum pro libidine uti. Quoniam rebus nequit ulcisci, verbis usurpare liberta<g ref="char:EOLhyphen"/>tem cupit,</hi> The people are naturally full of tongue, and think they are at a fine passe, if they may use it as they list against whom they please. And when they are not able to revenge themselves by deeds, they desire to take a liberty in words. Whereupon <hi>Tacitus</hi> con<g ref="char:EOLhyphen"/>cludes, <hi>Lubricum linguae non facilè ad poenam trahendum esse,</hi> that the<note place="margin">Tac. <hi>lib.</hi> 7.</note> slips of the tongue are not ordinarily to be punished: And most excel<g ref="char:EOLhyphen"/>lent to this purpose, out of the same Author, was that counsel of <hi>Au<g ref="char:EOLhyphen"/>gustus</hi> to <hi>Tiberius,</hi> when he urged him to revenge certain vile reproa<g ref="char:EOLhyphen"/>ches, <hi>Aetatituae, mi</hi> Tiberi, <hi>noli hac in re indulgere, &amp; nimlùm indig<g ref="char:EOLhyphen"/>nari, quenquam esse qui de me malè loquatur: Satis est hoc si habemus nè quis nobis malè facere possit.</hi> O my <hi>Tiberius</hi> (saith he) be not angry that any should speak ill of us: It's sufficient we have power to hin<g ref="char:EOLhyphen"/>der
+<pb n="9" facs="tcp:34852:6"/> them from doing us any ill. A <hi>Governer</hi> need not value words that hath the power of the sword; but ought rather to despise them, and acquiesce in his own merits, <hi>contentus ipsâ vi Imperii.</hi> Suitable<note place="margin">Curtius. <hi>lib.</hi> 1.</note> to this was that wise saying of <hi>Laurence de Medicis</hi> upon the like oc<g ref="char:EOLhyphen"/>casion, <hi>loquantur illi, nos verò faciemus.</hi> Let them talk, but let us be doing.</p>
+            </div>
+            <div n="3" type="part">
+               <head>III. <hi>Concerning</hi> Pasquils <hi>and</hi> Pamphlets.</head>
+               <p>THe same neglective carriage ought to be likewise in respect of idle <hi>Pasquils</hi> and <hi>scandalous Pamphlets.</hi> There is, and hath been, in every Age <hi>scripturiendi pruritus,</hi> a certain Itch of scribling; and when Governers shall (as <hi>Ʋitellius</hi> did) enact Lawes against such scurrilous Productions, they give them a kind of Reputation, and make them the more sought after: and the judgment of <hi>Tacitus</hi> upon this Act of <hi>Ʋitellius</hi> is, that such Prohibitions have no other effect, <hi>ni<g ref="char:EOLhyphen"/>si alimentum famae,</hi> but the magnifying the fame of the Authors. Very well (saith <hi>Tacitus</hi>) to this sence spake <hi>Crematius,</hi> in an oration to the praise of <hi>Julius</hi> and <hi>Augustus Caesars. Ipse D. Julius, ipse D. Augu<g ref="char:EOLhyphen"/>stus</hi>
+                  <note place="margin">Tacitus.</note>
+                  <hi>tulere illa, &amp; reliquere; haud facile dixerim moderatione magis, an verò sapientiâ: name spreta exolescunt; si irascare, agnita videntur.</hi> The Emperors <hi>Julius</hi> and <hi>Augustus</hi> bore those things, and contemned them, with a world of moderation and wisdom: For, being slighted, few beleeve or regard them; whereas if you be angry at them, you seem to acknowledge what they write. Thus those wise <hi>Emperors</hi> be<g ref="char:EOLhyphen"/>haved themselves; whereas <hi>Nero,</hi> by raging against the scriblers of his time, punishing them, and causing their Papers to be burnt, did but make himself the more odious, and multiply their number, and cause them to be held in greater admiration. To this agrees that o<g ref="char:EOLhyphen"/>ther passage likewise in <hi>Tacitus</hi> upon this Act of <hi>Nero. Punitis inge<g ref="char:EOLhyphen"/>niis</hi>
+                  <note place="margin">Tacit. <hi>Annal.</hi> 11.</note>
+                  <hi>gliscit Autoritas; ne{que} aliud externi principes, aut qui eâdem saevitiâ usi sunt, nisi dedecus sibi, at{que} illis gloriam peperere;</hi> the punishing of wits augments their reputation, and never did any Princes use them with the like cruelty, but they brought dishonor to themselves, and glory to them.</p>
+               <p>If <hi>Emperors</hi> then allowed so great a liberty of writing and speak<g ref="char:EOLhyphen"/>ing, much more may it be expected in <hi>a free State</hi> and <hi>Common-wealth.</hi> Hence (saith <hi>Suetonius) Romae &amp; Athenis Comoediae, Satyrae &amp;c. fre<g ref="char:EOLhyphen"/>quentes, &amp; etiam in Triumphis summa dicendi licentia erat.</hi> At <hi>Rome</hi> and <hi>Athens</hi> quipping <hi>Comedies</hi> and <hi>Satyrs</hi> were acted frequently
+<pb n="10" facs="tcp:34852:7"/> and openly, and even in the midst of their Triumphs, the People had liberty to say what they would of them. So <hi>Florestae</hi> likewise saith,<note place="margin">Floresta Espagnola <hi>paer. 1. cap. 1. num. ult.</hi>
+                  </note>
+                  <hi>Romae species libertatis est licentia Pasquillorum,</hi> At <hi>Rome</hi> the licenti<g ref="char:EOLhyphen"/>ous custom of <hi>Pasquils</hi> is esteemed a kind of liberty: And this li<g ref="char:EOLhyphen"/>cence is to be reckoned <hi>inter simulacra libertatis;</hi> as appears by the policie of <hi>Augustus</hi> and <hi>Tiberius,</hi> noted by <hi>Matthieu in Sejano, qui</hi>
+                  <note place="margin">Pierre Matthieu. <hi>fol.</hi> 103.</note>
+                  <hi>talem libertatem permiserunt, ut respublicae adhuc libera esse videretur.</hi> Most pat to this purpose is that story out of <hi>Jovius</hi> concerning <hi>A<g ref="char:EOLhyphen"/>drian</hi> the 6. who being much troubled at the abuses of of a certain <hi>rythming Pasquil,</hi> grew exceeding melancholy, till he was recovered by the wisdom of <hi>Ludovicus Suessarius, à quo edoctus erat</hi> (saith my Author) <hi>eam malèdicendi &amp; scribendi licentiam obscurorum bomi<g ref="char:EOLhyphen"/>num, libertati at{que} nequitiae dari, ut cùm insignes viros impunè carpse<g ref="char:EOLhyphen"/>rint, fortunam suam câ vindictae cupiditate consolentur.</hi> I could have added a hundred <hi>Instances</hi> more, were it not that my design is now to write but a small <hi>Pamphlet,</hi> and not a volume to give in evidence against the vanity of <hi>Pamphlets;</hi> which I reckon far beneath my self, much more below the care and consideration of men in Autho<g ref="char:EOLhyphen"/>rity.</p>
+            </div>
+            <div n="4" type="part">
+               <head>IV. <hi>Of Invectives out of the Pulpit.</hi>
+               </head>
+               <p>BUt as for <hi>Invectives</hi> &amp;c. by way of <hi>Sermon,</hi> and such kinds of <hi>Prizes</hi> as are plaid in the <hi>Pulpit,</hi> under pretence of <hi>Religion,</hi> the case is far otherwise; nor were they ever tolerated by any prudent <hi>States-men:</hi> Because (saith one) <hi>Quicquid offertur sub specie religi<g ref="char:EOLhyphen"/>onis &amp;c.</hi> whatsoever is delivered under a religious pretence, strikes an impression upon the soul, and through the ears sinks deep into the minds of the vulgar. <hi>Hac, veluti thyrso, percutiuntur mentes humanae</hi> (saith <hi>Tacitus) ut facile in ejus imagine, etiam falsa &amp; simulata acqui<g ref="char:EOLhyphen"/>escant.</hi>
+                  <note n="*" place="margin">Tacit. <hi>Annal</hi> 6.</note> By this mens minds are so charm'd, that things though never so false and fained, find easie entertainment. <hi>Bodin</hi> writes, that the <hi>Southern Tyrans</hi> keep their vassalls in subjection by the mere force and pretext of <hi>Religion:</hi> And in this respect, as it is called the <hi>Binder</hi> of States and Kingdoms, or (as <hi>Gaius</hi> the <hi>Civilian</hi> calls it) <hi>maximum remedium expediendarum actionum;</hi> So if this <hi>pretext of Religion</hi> shall<note place="margin">B<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>soldus. <hi>in dissert. de Arcan. Rerumpul. cap.</hi> 2.</note> run in a <hi>Current</hi> contrary to the received Government, it becomes the Bane of any State or Kingdom: But especially in a <hi>free State,</hi> care must be taken to curb the licentioufnesse of <hi>Sermoning:</hi> For, as it is observed by <hi>Besoldus</hi> the Civilian, this very thing was the ruin of
+<pb n="11" facs="tcp:34852:7"/> those many flourishng Commonwealths in <hi>Greece.</hi>
+               </p>
+               <p>Now then, if it hathbeen of such power to cause disturbances and ruin, in <hi>States</hi> of an ancient standing; much more speedy and fatall must the consequence needs be, in a <hi>State</hi> whose Foundation is lay<g ref="char:EOLhyphen"/>ing, or but newly laid. And therefore in this case, very excellent was<note place="margin">Cicero. <hi>pro Flacco.</hi>
+                  </note> that custom of the <hi>Romans</hi> mentioned by <hi>Cicero, qui nullam vim con<g ref="char:EOLhyphen"/>cionis esse voluerunt apud plebem &amp;c.</hi> who had a speciall care what <hi>Sermons</hi> were made among the people, and permitted none but what had the countenance and approbation of Authority. For, as <hi>Papini<g ref="char:EOLhyphen"/>anus</hi> observed, so prevalent was any reason enforced under pretence of Religion, among the <hi>Romans, it à ut omnia post religionem ponenda civitas Romana duxerit, etiam in quibus summae majestatis decus voluit apparere;</hi> that the City of <hi>Rome</hi> valued concernments of that nature, even before such as might advance the honor of the Empire. And this is observed likewise by <hi>Valerius Maximus.</hi>
+               </p>
+               <p>If I list, I could dis-embogue a cloud of witnesses and sad exam<g ref="char:EOLhyphen"/>ples, to manifest the strange power of those <hi>Pulpit-Politicians;</hi> who, like the ancient <hi>Demagogues</hi> of <hi>Athens,</hi> or <hi>popular Orators</hi> in <hi>Rome,</hi> can chain the hearts of the people to their own tongues, and lead them by the nose which way they please, to the accomplishing of a<g ref="char:EOLhyphen"/>ny design whatsoever. Look into <hi>Germany, France,</hi> great <hi>Britain,</hi> and generally all over <hi>Christendom,</hi> and we cannot want <hi>Instances</hi> both old and new, But the most famous one of all is to be fetcht out of <hi>I<g ref="char:EOLhyphen"/>taly,</hi> from <hi>Florence,</hi> concerning one <hi>Hierom Savanarola,</hi> a Frier Pre<g ref="char:EOLhyphen"/>dicant; who so bewitched the People with his <hi>Sermons</hi> &amp;c. and at length gained such a Reputation of Sanctity, and so many Follow<g ref="char:EOLhyphen"/>ers, that taking Arms he drove out the <hi>Medicean</hi> Family, usurped the Soveraignty and Majesty of <hi>Florence</hi> to himself, and (if I well re<g ref="char:EOLhyphen"/>member the story out of <hi>Lipsius</hi>) made a shift to maintain himself in<note place="margin">Lips. <hi>in monit. &amp; exemp. po<g ref="char:EOLhyphen"/>lit.</hi>
+                  </note> possession, for the space of 12. months (or more) till his fraudulent Arts and pretences being discovered, he became odious and contemp<g ref="char:EOLhyphen"/>tible; and in the end being forsaken of all, the people returned to their Allegiance, and delivered him up as a <hi>Traitor.</hi> This is enough to shew, what prejudicé a State may receive by pragmaticall and pe<g ref="char:EOLhyphen"/>tulant Preachers: Therefore (for a conclusion) let me recommend the advice of a notable Politician; <hi>Patricii adeò corum loquacitatem ambitionem{que} comprimant, ut iis nullâ ferè aliâ de re, praeterquàm de morum corruptione, animarum{que} salute, publicè verba facere liceat;</hi> that Governers ought so to bridle the tongues and ambition of such <hi>Prea<g ref="char:EOLhyphen"/>chers,</hi> that they presume not to utter any thing in publique, save what concerns the corruption of mens manners, and the salvation of souls.</p>
+            </div>
+            <div n="5" type="part">
+               <pb n="12" facs="tcp:34852:8"/>
+               <head>V. <hi>Concerning</hi> Eaves-droppers, Whisperers, <hi>&amp;c.</hi>
+               </head>
+               <p>I Shall (in brief) discourse only of one particular more, and then I have don, <hi>viz.</hi> concerning that <hi>Odium</hi> Governers may bring upon themselves, by imploying such persons, which the antient <hi>Grecians</hi> called <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; the Romans <hi>Auricularii vel Delatores;</hi> we in English, <hi>Eaves-droppers, Whisperers, Informers,</hi> &amp;c. of whom <hi>Tacitus</hi> gives this Character, <hi>Delatores</hi> (inquit) <hi>genus hominum publico exitio reper<g ref="char:EOLhyphen"/>tum,</hi>
+                  <note place="margin">Tacit. <hi>Annal.</hi> 4.</note> that they are the very Pest of mankind. <hi>Quâ in re detesterne pc<g ref="char:EOLhyphen"/>tius depertissimorum nebulonum fumos at{que} fraudes; an vcrò principum</hi>
+                  <note place="margin">Besold. <hi>dissert. de Arcanis Rerum<g ref="char:EOLhyphen"/>pub.</hi>
+                  </note>
+                  <hi>insolentiam, qui hujuscemodi amant, fovent, amplectuntur?</hi> Concerning which sort of despicable and forlorn wretches (saith one) I know not whether be most hatefull; either their Fumes and Frauds, or the Insolence of those Princes and great persons, which love, cherish, and entertain them. By such as these (saith <hi>Arrianus</hi>) even good<note place="margin">Arrian. <hi>in Epictet. lib.</hi> 4.</note> men were undon at <hi>Rome. Hoc modo viri boni</hi> Romae <hi>subvertuntur. Arridet tibi homo quidam &amp;c.</hi> Thus one comes, and sooths thee up, and entring into discourse as thy familiar friend, <hi>de principe inclemen<g ref="char:EOLhyphen"/>ter loquitur,</hi> speaks amisse of the present Government, on purpose to under-feel thee: Then thou, supposing this to be a true Test of his temper, dost second him in the same kind of language, and deliverest all thy mind with confidence; <hi>paulò post abductus linguae temeritatem morte luis;</hi> and so in the end thou art brought to ruine.</p>
+               <p>Hence (saith <hi>Polybius</hi>) when such persons are sent abroad, <hi>plena omnium suspicionum, &amp; vix secreta domuum sine formidine,</hi> every man suspects another, the very secrets of our Families are unsafe, nor dares any one trust his neighbor. At this wretched passe the City of<note place="margin">Tacit. <hi>Annal.</hi> 4.</note>
+                  <hi>Rome</hi> once was; and it is recorded by <hi>Tacitus</hi> in his fourth book, upon ocasion of <hi>Titius Sabinus</hi> being accused by three <hi>Senators.</hi> The manner thus; Those three hid themselves before-hand in some secret corners of a certain room, whither they had appointed one <hi>Latiaris</hi> to bring <hi>Titius Sabinus</hi> and under-feele him in discourse; which being acted accordingly by <hi>Latiaris, Sabinus</hi> utters his mind to the full; and so the three <hi>Senators</hi> hearing all, went and accused him to the <hi>Emperor.</hi> Hereupon (saith <hi>Tacitus) Non aliàs magis anxia &amp; pavens civitas, etiam adversum proximos, Congressus, Colloquia, no<g ref="char:EOLhyphen"/>tae ignotae{que} aures vicari; etiam muta at{que} inanima, tectum, &amp; parietes circumspèctabantur.</hi> So generall a fear seized the whole City, that the people durst not converse or discourse with their nearest friends and acquaintance, nor scarce trust the very stocks and stones, and
+<pb n="13" facs="tcp:34852:8"/> searched the roofs and walls for fear of Treachery. <hi>Quae quid aliud sunt</hi> (saith one) <hi>quàm extrema dominationis Flagitia?</hi> What greater tyranny can there be than this, so destructive of civill Conversation, which is the end of Governments, Societies, and Cities? What In<g ref="char:EOLhyphen"/>gredient more harsh, to inflame the rage of a people, than the coun<g ref="char:EOLhyphen"/>tenancing and cherishing such pestiferous Creatures?</p>
+               <p>There are another sort of men which the Latines call <hi>Lictores;</hi> in English <hi>Serjeants</hi> and <hi>Pursuivants;</hi> but those more immediately at<g ref="char:EOLhyphen"/>tending the State are ordinarily called <hi>Messengers.</hi> These, if a great number, must all be maintained with what they can squeeze; and therefore upon the least pretence (guilty or not guilty) <hi>all are fish that come to net.</hi> Therefore it is the advice of a wise man, <hi>ne in po<g ref="char:EOLhyphen"/>pulari</hi>
+                  <note place="margin">Ulpianus.</note>
+                  <hi>Statu Patricii multos Lictores habeant,</hi> that in a <hi>free State</hi> there should not many of these Officers be permitted. This is secon<g ref="char:EOLhyphen"/>ded likewise by <hi>Livy, lib.</hi> 3. where he tells us, <hi>Non pudet Lictorum majorem propè numerum in foro conspici, quàm togatorum, aliorum{que},</hi> the <hi>Romans</hi> were not ashamed to have a greater number of these Of<g ref="char:EOLhyphen"/>ficers, than of their Lawyers and Gown-men, attending their Courts of Justice.</p>
+               <p>A third sort of men there are, far more tolerable than either of the former, yea, and very necessary in a Common-wealth abounding with persons disaffected and seditiously inclined. The <hi>Romans</hi> called them <hi>Speculatores; quippe erant veluti è speculâ principis,</hi> saith <hi>Sueto<g ref="char:EOLhyphen"/>nius.</hi>
+                  <note place="margin">Suet. <hi>de Claudio.</hi>
+                  </note> They may in <hi>English,</hi> not improperly, be termed <hi>Scouts</hi> or <hi>In<g ref="char:EOLhyphen"/>formers:</hi> And such <hi>Suetonius</hi> tells us the Emperor <hi>Claudius</hi> had al<g ref="char:EOLhyphen"/>waies attending him, who pried abroad into the conditions of men, and the state of the Common-wealth; not to intrap or insnare any, and then accuse them face to face upon particulars, but only for the Princes private information in generall. These are farre different from those impudent <hi>Auricularii,</hi> or <hi>Eaves-droppers,</hi> who first be<g ref="char:EOLhyphen"/>tray, next accuse, and then aggravate under-hand with pretences and perpetuall <hi>whisperings,</hi> by these tricks abusing the ears of Authority, grieving the people, and making them quite out of love with their Governors.</p>
+               <p>And as it is most certaine, that they heap a world of hatrod upon Governers; so it is very rare, that they bring them any benefit at all by their service: For, lest they should seem to be idle, or uselesse, they usually feed their Patrons with more frivolous matters and fop<g ref="char:EOLhyphen"/>peries, than realities. Most excellent to this purpose are those words<note place="margin">Ammia<g ref="char:EOLhyphen"/>nus. <hi>lib.</hi> 14.</note> of <hi>Ammianus</hi> concerning these <hi>whispering ear-wigs; qui paulatim e<g ref="char:EOLhyphen"/>ruditiores
+<pb n="14" facs="tcp:34852:9"/> facti, processu temporis, ad nocendum, per clandestinos versu<g ref="char:EOLhyphen"/>tos{que} Rumigerulos, compertis leviter quaedam addere malesuetos, falsa &amp; placentiasaepe dicentes, artium nefandarum calumnias insontibus adfi<g ref="char:EOLhyphen"/>gunt.</hi> Indeed, it is the Custome of this kind of <hi>mercenary varlets,</hi> if they have but the least hint of matters, immediately to frame an ac<g ref="char:EOLhyphen"/>cusation, bring a man in question, cast him into prison, and then rake every way for materialls to make good the Charge; and still to load the poor <hi>Delinquent</hi> (guilty or not guilty) with fresh calumnies, and the ears of Statesmen with high suggestions: And this, out of de<g ref="char:EOLhyphen"/>signe onely to magnifie their owne Service, that they may gaine the greater reward, with the more meritorious reputation. Of this hu<g ref="char:EOLhyphen"/>mor in such instruments, <hi>Petronius</hi> hath taken notice,
+<q>
+                     <l>Nec satis est vulgâsse fidem; simulatius exit</l>
+                     <l>Proditionis opus, famam{que} oner are laborat.</l>
+                  </q>
+               </p>
+               <p>And this I find is my own case at this instant, in relation to such secret <hi>whisperers,</hi> who serve their own ends, by making me the unfor<g ref="char:EOLhyphen"/>tunate Subject of many idle <hi>Insinuations.</hi> All which, with my selfe, and this briefe discourse, I most humbly submit to Con<g ref="char:EOLhyphen"/>sideration.</p>
+               <q>
+                  <l>Qui nil sper are potest, desperet nihil.</l>
+                  <note place="margin">Sen. <hi>Tra<g ref="char:EOLhyphen"/>goed.</hi>
+                  </note>
+               </q>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
